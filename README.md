@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blitzen01. Currently 4th Year College in Cavite State University Tanza Campus taking Bachelor of Science in Information Technology.
+- 👋 Hi, I’m @Blitzen01. Graduated from Cavite State University Tanza Campus as Bachelor of Science in Information Technology.
 - 👀 I’m interested in making websites and playing table tennis
 - 🌱 I’m currently learning HTML, CSS, Bootstrap 5, JavaScript, 
 - 💞️ I’m looking to collaborate on working a website.
